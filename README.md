@@ -86,6 +86,7 @@
 | Project & Repository | Engineering Highlight | Technologies |
 | :--- | :--- | :--- |
 | **[Enterprise Hotel RDBMS](https://github.com/saeedsad821-ux/hotel-management-db-architecture)** | Normalized a highly redundant 119k-row dataset into a 13-table 3NF SQL Server DB. Built Stored Procedures, Triggers, and an automated Docker deployment pipeline. | `SQL Server`, `T-SQL`, `Docker` |
+| **Corporate BI & Financial Dashboards** | Designed dynamic, interactive Power BI dashboards for freelance clients, utilizing DAX and Power Query to visualize financial KPIs and drive 20% average profit growth. | `Power BI`, `DAX`, `Financial Modeling` |
 | **Early Dental Disease Detection** | Trained a Convolutional Neural Network (CNN) on clinical imaging datasets to detect early-stage dental anomalies, validated alongside clinical professionals. | `TensorFlow`, `CNNs`, `Keras` |
 | **[Body Performance ML Model](https://github.com/saeedsad821-ux/Body-Performance-ML-Project)** | Built and optimized advanced classification & regression models achieving 94% accuracy on physiological fitness data. | `Scikit-Learn`, `Pandas`, `EDA` |
 | **Hyper-Personalized RecSys** | Architected an AI recommendation engine prototype providing enterprise-grade personalization capabilities for independent E-commerce platforms. | `Python`, `RecSys`, `Analytics` |
