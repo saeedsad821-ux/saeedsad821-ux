@@ -94,13 +94,15 @@
 
 ---
 
-<h2 align="center">📊 Real-Time GitHub Analytics</h2>
+<h2 align="center">📬 Let's Connect & Collaborate</h2>
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedsad821-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=38bdf8)](https://github.com/saeedsad821-ux)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedsad821-ux&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8)](https://github.com/saeedsad821-ux)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsad821-ux&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8)](https://github.com/saeedsad821-ux)
-
+  <p>I am currently open for new opportunities in <b>Data Engineering</b>, <b>BI</b>, and <b>AI Automation</b>.</p>
+  
+  <a href="https://linkedin.com/in/saeed-saad-abdo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saeedsad821@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
