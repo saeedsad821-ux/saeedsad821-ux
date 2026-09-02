@@ -94,11 +94,15 @@
 <h2 align="center">📊 Real-Time GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedsad821-ux&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;title_color=38bdf8&amp;icon_color=38bdf8" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedsad821-ux&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8&amp;icon_color=38bdf8" alt="GitHub Streak" width="48%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsad821-ux&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8" alt="Top Languages" width="60%"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedsad821-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=38bdf8)](https://github.com/saeedsad821-ux)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedsad821-ux&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8)](https://github.com/saeedsad821-ux)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsad821-ux&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8)](https://github.com/saeedsad821-ux)
+
 </div>
+
+  <br><br>
 
 <br>
 
