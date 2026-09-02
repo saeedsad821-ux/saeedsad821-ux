@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,18,24,28,31&height=250&section=header&text=Saeed%20Saad%20Abdo&fontSize=60&desc=Enterprise%20AI%20Architect%20%7C%20MLOps%20%26%20Data%20Engineer&descAlignY=72&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,6,11,18,24,28,31&amp;height=250&amp;section=header&amp;text=Saeed%20Saad%20Abdo&amp;fontSize=60&amp;desc=Enterprise%20AI%20Architect%20%7C%20MLOps%20and%20Data%20Engineer&amp;descAlignY=72&amp;animation=twinkling" width="100%" />
 
 ### 🚀 Architecting Autonomous AI Systems & Scalable Data Pipelines
 
 <p align="center">
-  <a href="mailto:saeedsad821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/saeed-saad-abdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Military_Status-Completed-success?style=for-the-badge&logo=shield&logoColor=white" alt="Military" />
-  <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-181717?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <a href="mailto:saeedsad821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/saeed-saad-abdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Military_Status-Completed-success?style=for-the-badge&amp;logo=shield&amp;logoColor=white" alt="Military" />
+  <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-181717?style=for-the-badge&amp;logo=google-maps&amp;logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -20,28 +20,28 @@
 <div align="center">
   
 **🧠 Deep Learning & Machine Learning**<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/CNNs_%7C_RNNs_%7C_GANs-121212?style=for-the-badge" />
 
 **🤖 Generative AI & MLOps**<br>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D4BFA4?style=for-the-badge&logo=anthropic&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D4BFA4?style=for-the-badge&amp;logo=anthropic&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlebard&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 
 **🗄️ Database Architecture & Data Engineering**<br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=chroma&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI_PL--300-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&amp;logo=pinecone&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&amp;logo=chroma&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI_PL--300-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=tableau&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
   
 </div>
 
@@ -94,10 +94,10 @@
 <h2 align="center">📊 Real-Time GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedsad821-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedsad821-ux&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedsad821-ux&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;title_color=38bdf8&amp;icon_color=38bdf8" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedsad821-ux&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8&amp;icon_color=38bdf8" alt="GitHub Streak" width="48%"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsad821-ux&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsad821-ux&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8" alt="Top Languages" width="60%"/>
 </div>
 
 <br>
