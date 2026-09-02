@@ -84,7 +84,7 @@
 | :--- | :--- | :--- |
 | **[Enterprise Hotel RDBMS](https://github.com/saeedsad821-ux/hotel-management-db-architecture)** | Normalized a highly redundant 119k-row dataset into a 13-table 3NF SQL Server DB. Built Stored Procedures, Triggers, and an automated Docker deployment pipeline. | `SQL Server`, `T-SQL`, `Docker` |
 | **Early Dental Disease Detection** | Trained a Convolutional Neural Network (CNN) on clinical imaging datasets to detect early-stage dental anomalies, validated alongside clinical professionals. | `TensorFlow`, `CNNs`, `Keras` |
-| **Body Performance ML Model** | Built and optimized advanced classification & regression models achieving 94% accuracy on physiological fitness data. | `Scikit-Learn`, `Pandas`, `EDA` |
+| **[Body Performance ML Model](https://github.com/saeedsad821-ux/Body-Performance-ML-Project)** | Built and optimized advanced classification & regression models achieving 94% accuracy on physiological fitness data. | `Scikit-Learn`, `Pandas`, `EDA` |
 | **Hyper-Personalized RecSys** | Architected an AI recommendation engine prototype providing enterprise-grade personalization capabilities for independent E-commerce platforms. | `Python`, `RecSys`, `Analytics` |
 
 </details>
