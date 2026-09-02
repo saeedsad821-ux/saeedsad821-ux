@@ -35,12 +35,15 @@
 <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 
-**🗄️ Database Architecture & Data Engineering**<br>
+**🗄️ Data Engineering, Analytics & BI**<br>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&amp;logo=pinecone&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&amp;logo=chroma&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI_PL--300-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=tableau&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis_%26_EDA-121212?style=for-the-badge&amp;logo=google-analytics&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Financial_Modeling-412991?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
   
 </div>
